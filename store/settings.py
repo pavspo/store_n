@@ -99,6 +99,7 @@ INTERNAL_IPS = [
 #     }
 # }
 DATABASES = {
+
     # 'default': {
     #     'NAME': 'django',
     #     'ENGINE': 'django.db.backends.postgresql',
